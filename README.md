@@ -11,9 +11,9 @@
   - How to self-publish books
   
 ## 📫 How to Reach Me:
-  - [Proton Mail](mailto:Joe@JoeLevi.com)
-  - [![email](mailto:Joe@JoeLevi.com) 
   - [Signal](https://signal.me/#eu/kez2d3EnvXoe-gjPhHb-k60FX4wUPr8ib7FzcJlDBEMWAqf4C7NGHIFJYrARuQKG)
+  - [Proton Mail](mailto:Joe@JoeLevi.com)
+  - PHP Public Key
 
 ## ⚡ Fun Fact:
   - I'm 🪶Native American
