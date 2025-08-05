@@ -1,5 +1,5 @@
 # 💫 [About Me](https://JoeLevi.com):
-Hi there 👋. I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™. Pleased to make your acquaintance!
+👋Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™. Pleased to make your acquaintance!
 
 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
