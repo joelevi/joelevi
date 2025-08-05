@@ -13,7 +13,7 @@
 ## 📫 How to Reach Me:
   - [Signal](https://signal.me/#eu/kez2d3EnvXoe-gjPhHb-k60FX4wUPr8ib7FzcJlDBEMWAqf4C7NGHIFJYrARuQKG)
   - [Proton Mail](mailto:Joe@JoeLevi.com)
-  - PHP Public Key
+  - [PHP Public Key](Joe Levi's public key.asc)
 
 ## ⚡ Fun Fact:
   - I'm 🪶Native American
