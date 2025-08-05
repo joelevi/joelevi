@@ -12,7 +12,7 @@
   
 ## 📫 How to Reach Me:
   - [Proton Mail](mailto:Joe@JoeLevi.com)
-  - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Joe@JoeLevi.com) 
+  - [![email](mailto:Joe@JoeLevi.com) 
   - [Signal](https://signal.me/#eu/kez2d3EnvXoe-gjPhHb-k60FX4wUPr8ib7FzcJlDBEMWAqf4C7NGHIFJYrARuQKG)
 
 ## ⚡ Fun Fact:
