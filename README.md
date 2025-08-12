@@ -4,11 +4,12 @@
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
   - Re-writing web sites
+  - Deploying and Administering a neighborhood Internet Co-Op: [Crave Broadband](https://CraveBroadband.com)
   
 ## 🌱 I’m Currently Learning:
   - PHP
   - The art of the sitemap.xml file
-  - How to self-publish books
+  - How to [self-publish books](https://amzn.to/41l353a)
   
 ## 📫 How to Reach Me:
   - [Signal](https://signal.me/#eu/kez2d3EnvXoe-gjPhHb-k60FX4wUPr8ib7FzcJlDBEMWAqf4C7NGHIFJYrARuQKG)
