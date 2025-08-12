@@ -19,7 +19,10 @@
   - I'm 🪶Native American
 
 ## 📚 What I've Recently Read:
-  - [📗299 Days: The Preparation](https://amzn.to/4fl1KPE) (currently reading)
+  - 📗299 Days 4: The Stronghold (currently reading)
+  - 📗299 Days 3: The Community
+  - 📗299 Days 2: The Collapse
+  - [📗299 Days 1: The Preparation](https://amzn.to/4fl1KPE)
   - [📘One Second After](https://amzn.to/452kakO)
   - 📙The Art of Deception
   - 📔Written out of History
