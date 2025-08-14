@@ -20,7 +20,8 @@
   - I'm 🪶Native American
 
 ## 📚 What I've Recently Read:
-  - 📗299 Days 5: The Visitors (currently reading)
+  - 📗299 Days 6: The 17th Irregulars (currently reading)
+  - 📗299 Days 5: The Visitors 
   - 📗299 Days 4: The Stronghold
   - 📗299 Days 3: The Community
   - 📗299 Days 2: The Collapse
