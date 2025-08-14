@@ -19,7 +19,7 @@
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
 
 ## ⚡ Fun Fact:
-  - I'm [🪶Native American](https://RepublicanNaties.com)
+  - I'm [🪶Native American](https://RepublicanNatives.com)
 
 ## 📚 What I've Recently Read:
   - 📗299 Days 6: The 17th Irregulars (currently reading)
