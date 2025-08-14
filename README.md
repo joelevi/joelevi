@@ -41,7 +41,7 @@
   - 📔The Liberty Amendments
   - 📔The American Miracle
   - 📕Animal Farm
-  - 📔Elon Musk
+  - 📔Elon Musk: Telsa, SpaceX, and the Quest for a Fantastic Future
   - 📕Atlas Shrugged
   - 📕1984
 
