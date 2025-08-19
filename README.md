@@ -24,7 +24,8 @@
   - I'm [🪶Native American](https://RepublicanNatives.com)
 
 ## 📚 What I've Recently Read:
-  - 📗[299 Days 7: The Change of Seasons](https://amzn.to/3UC6EOK) (currently reading)
+  - 📗[299 Days 7: The Change of Seasons](https://amzn.to/4mu5NMu) (currently reading)
+  - 📗[299 Days 8: The War](https://amzn.to/3UC6EOK)
   - 📗[299 Days 6: The 17th Irregulars](https://amzn.to/4mG86LO)
   - 📗[299 Days 5: The Visitors](https://amzn.to/3Jm8Kjl)
   - 📗[299 Days 4: The Stronghold](https://amzn.to/4fEkYjj)
