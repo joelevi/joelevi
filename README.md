@@ -19,7 +19,8 @@
   - [Proton Mail](mailto:Joe@JoeLevi.com)
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
   - HAM Radio: KF7NWA
-  - [Meshtastic](https://meshtastic.org/) ~~[Meshcore](https://meshcore.co.uk/)~~
+  - ~~[Meshcore](https://meshcore.co.uk/)~~
+  - [Meshtastic](https://meshtastic.org/)
 
 ## ⚡ Fun Fact:
   - I'm [🪶Native American](https://RepublicanNatives.com)
