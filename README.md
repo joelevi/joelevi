@@ -3,7 +3,7 @@
 
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
-  - Deploying and Administering a neighborhood Internet Co-Op: [Crave Broadband](https://CraveBroadband.com)
+  - Deploying and Administering a [neighborhood Internet Co-Op](https://CraveBroadband.com)
   - Building a treehouse
   - Deploying a Proxmox HA Cluster
   - Re-writing web sites
