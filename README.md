@@ -18,7 +18,7 @@
   - [Signal](https://signal.me/#eu/kez2d3EnvXoe-gjPhHb-k60FX4wUPr8ib7FzcJlDBEMWAqf4C7NGHIFJYrARuQKG)
   - [Proton Mail](mailto:Joe@JoeLevi.com)
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
-  - HAM Radio: KF7NWA
+  - [HAM Radio](https://www.qrz.com/db/KF7NWA)
   - ~~[Meshcore](https://meshcore.co.uk/)~~
   - [Meshtastic](https://meshtastic.org/)
 
