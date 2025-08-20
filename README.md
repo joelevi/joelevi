@@ -7,6 +7,7 @@
   - Building a treehouse
   - Deploying a Proxmox HA Cluster
   - Re-writing web sites
+  - Deploying [Meshtastic](https://meshtastic.org/) for off-grid family and community communications
   
 ## 🌱 I’m Currently Learning:
   - PHP
@@ -18,7 +19,7 @@
   - [Proton Mail](mailto:Joe@JoeLevi.com)
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
   - HAM Radio: KF7NWA
-  - Meshtastic ~~Meshcore~~
+  - [Meshtastic](https://meshtastic.org/) ~~[Meshcore](https://meshcore.co.uk/)~~
 
 ## ⚡ Fun Fact:
   - I'm [🪶Native American](https://RepublicanNatives.com)
