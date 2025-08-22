@@ -8,10 +8,14 @@
   - Deploying a Proxmox HA Cluster
   - Re-writing web sites
   - Deploying [Meshtastic](https://meshtastic.org/) for off-grid family and community communications
+
+## ✔️ I Recently Completed:
+  - [Fancy Tooltip](https://github.com/joelevi/fancy-tooltip): a (relatively) simple rich tooltip component
   
 ## 🌱 I’m Currently Learning:
   - PHP
   - The art of the sitemap.xml file
+  - `.htaccess` for fun and excitement
   - How to [self-publish books](https://amzn.to/41l353a)
   
 ## 📫 How to Reach Me:
