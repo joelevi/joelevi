@@ -10,7 +10,7 @@
   - Deploying [Meshtastic](https://meshtastic.org/) for off-grid family and community communications
 
 ## ✔️ I Recently Completed:
-  - [Fancy Tooltip](https://github.com/joelevi/fancy-tooltip): a (relatively) simple rich tooltip component
+  - [Fancy Tooltip](https://github.com/joelevi/fancy-tooltip): a (relatively) simple rich tooltip component (HTML, CSS, JavaScript; Bootstrap & Fontawesome)
   
 ## 🌱 I’m Currently Learning:
   - PHP
