@@ -30,7 +30,7 @@
   - I'm [🪶Native American](https://RepublicanNatives.com)
 
 ## 📚 What I've Recently Read:
-  - 📗[299 Days 10: The 43 Colonels](https://amzn.to/462x2aV) (currently reading)
+  - 📗[299 Days 10: The 43 Colonels](https://amzn.to/462x2aV)
   - 📗[299 Days 9: The Restoration](https://amzn.to/4mXArxA)
   - 📗[299 Days 8: The War](https://amzn.to/3UC6EOK)
   - 📗[299 Days 7: The Change of Seasons](https://amzn.to/4mu5NMu)
