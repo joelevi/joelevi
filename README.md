@@ -58,7 +58,7 @@
 
 ## 📚 My Bookshelf (what I've recently read):
   - ✒️ [Any Weir](https://amzn.to/3UTasv8)
-    - 📖 (The Martian](https://amzn.to/4lR1I3Q)
+    - 📖 [The Martian](https://amzn.to/4lR1I3Q)
   - ✒️ [Glen Tate](https://amzn.to/3UPLX1W)
     - 📗[299 Days 10: The 43 Colonels](https://amzn.to/462x2aV)
     - 📗[299 Days 9: The Restoration](https://amzn.to/4mXArxA)
