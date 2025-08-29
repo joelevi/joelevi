@@ -1,5 +1,5 @@
 # 💫 [About Me](https://JoeLevi.com):
-👋Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™. Pleased to make your acquaintance!
+ 👋 Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™. Pleased to make your acquaintance!
 
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
@@ -59,7 +59,7 @@
 
 ## 📚 My Bookshelf (what I've recently read):
   - ✒️ [Any Weir](https://amzn.to/3UTasv8)
-    - 📖 [The Martian](https://amzn.to/4lR1I3Q)
+    - 📖 [The Martian](https://amzn.to/4lR1I3Q) (currently reading)
   - ✒️ [Glen Tate](https://amzn.to/3UPLX1W)
     - 📗[299 Days 10: The 43 Colonels](https://amzn.to/462x2aV)
     - 📗[299 Days 9: The Restoration](https://amzn.to/4mXArxA)
