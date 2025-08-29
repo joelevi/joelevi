@@ -10,11 +10,12 @@
   - Deploying [Meshtastic](https://meshtastic.org/) for off-grid family and community communications
 
 ## ✔️ I Recently Completed:
-  - [Fancy Tooltip](https://github.com/joelevi/fancy-tooltip): a (relatively) simple rich tooltip component (HTML, CSS, JavaScript; Bootstrap & Fontawesome)
+  - 📽️ [webm-simple-batch-convertor](https://github.com/joelevi/webm-simple-batch-convertor/): a `.bat` file which checks a folder for videos, uses HandbrakeCLI to convert them to .webm VP9, and handles failures, with basic reporting.
+  - 💬 [Fancy Tooltip](https://github.com/joelevi/fancy-tooltip): a (relatively) simple rich tooltip component (HTML, CSS, JavaScript; Bootstrap & Fontawesome)
   
 ## 🌱 I’m Currently Learning:
   - PHP
-  - The art of the sitemap.xml file
+  - The art of the `sitemap.xml` file
   - `.htaccess` for fun and excitement
   - How to [self-publish books](https://amzn.to/41l353a)
   
