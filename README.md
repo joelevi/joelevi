@@ -58,8 +58,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=joelevi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📚 My Bookshelf (what I've recently read):
-  - ✒️ [Any Weir](https://amzn.to/3UTasv8)
-    - 📖 [The Martian](https://amzn.to/4lR1I3Q) (currently reading)
+  - ✒️ [William R. Forstchen](https://amzn.to/3VojnVw)
+    - 📘[One Year After](https://amzn.to/3I4Xg3r) (📖 currently reading)
+    - 📘[One Second After](https://amzn.to/452kakO)
   - ✒️ [Glen Tate](https://amzn.to/3UPLX1W)
     - 📗[299 Days 10: The 43 Colonels](https://amzn.to/462x2aV)
     - 📗[299 Days 9: The Restoration](https://amzn.to/4mXArxA)
@@ -75,23 +76,34 @@
     - 📗[A Great State 3: The Rescue](https://amzn.to/4fDqClO)
     - 📗[A Great State 2: The Aftermath](https://amzn.to/416D8V6)
     - 📗[A Great State 1: The Divide](https://amzn.to/45FIgAO)
-  - ✒️ [William R. Forstchen](https://amzn.to/3VojnVw)
-    - 📘[One Second After](https://amzn.to/452kakO)
-  - ✒️ [Tom Sweterlitsch](https://amzn.to/4p2GrHg)
-    - 📘[Tomorrow and Tomorrow](https://amzn.to/472oq59)
   - ✒️ [Kevin D. Mitnick](https://amzn.to/45U6KGJ)  
     - 📙[The Art of Deception](https://amzn.to/472TwtA)
     - 📙[The Art of Invisibility](https://amzn.to/3V6oLMR)
     - 📙[Ghost in the Wires](https://amzn.to/3UTnXLv)
-  - ✒️ various  
-    - 📔[Written out of History](https://amzn.to/4lzWB82)
-    - 📔[The Creature from Jekyll Island](https://amzn.to/4mMFNvq)
-    - 📔[The Liberty Amendments](https://amzn.to/46XXSC9)
-    - 📔[The American Miracle: Divine Providence in the Rise of the Republic](https://amzn.to/4mugcb2)
-    - 📔[Elon Musk: Telsa, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/418CqGW)
+  - ✒️ [George Orwell](https://amzn.to/3HC2nrS)
     - 📕[Animal Farm](https://amzn.to/4mk13Zs)
+    - 📕[1984](https://amzn.to/3UyB849)    
+  - ✒️ [Ayn Rand](https://amzn.to/3HYVssE)
     - 📕[Atlas Shrugged](https://amzn.to/3HFquFP)
-    - 📕[1984](https://amzn.to/3UyB849)
+  - ✒️ [Any Weir](https://amzn.to/3UTasv8)
+    - 📘[The Martian](https://amzn.to/4lR1I3Q)
+  - ✒️ [Tom Sweterlitsch](https://amzn.to/4p2GrHg)
+    - 📘[Tomorrow and Tomorrow](https://amzn.to/472oq59)
+  - ✒️ [Mike Lee](https://amzn.to/4pi3dLk)
+    - 📔[Written out of History](https://amzn.to/4lzWB82)
+  - ✒️ [Mark R. Levin](https://amzn.to/42cfBCq)
+    - 📔[The Liberty Amendments](https://amzn.to/46XXSC9)
+  - ✒️ [Michael Medved](https://amzn.to/3HEePHD)
+   - 📔[The American Miracle: Divine Providence in the Rise of the Republic](https://amzn.to/4mugcb2)
+  - ✒️ [G. Edward Griffin](https://amzn.to/3JJUd16)
+    - 📔[The Creature from Jekyll Island](https://amzn.to/4mMFNvq)   
+  - ✒️ [Ashlee Vance](https://amzn.to/4p3Q7B2)
+    - 📔[Elon Musk: Telsa, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/418CqGW)
+  
+
+    
+
+    
       
 ---
 [![](https://visitcount.itsvg.in/api?id=joelevi&icon=0&color=0)](https://visitcount.itsvg.in)
