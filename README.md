@@ -59,23 +59,25 @@
 
 ## 📚 My Bookshelf (what I've recently read):
   - ✒️ [William R. Forstchen](https://amzn.to/3VojnVw)
-    - 📘[One Year After](https://amzn.to/3I4Xg3r) (📖 currently reading)
-    - 📘[One Second After](https://amzn.to/452kakO)
+    - 📚[The John Matherson Series](https://amzn.to/4mLKXrR)
+      - 📘[One Second After](https://amzn.to/452kakO)
+      - 📘[One Year After](https://amzn.to/3I4Xg3r)
+      - 📘[The Final Day](https://amzn.to/3JP8BFk) (📖 currently reading)
   - ✒️ [Glen Tate](https://amzn.to/3UPLX1W)
-    - 📗[299 Days 10: The 43 Colonels](https://amzn.to/462x2aV)
-    - 📗[299 Days 9: The Restoration](https://amzn.to/4mXArxA)
-    - 📗[299 Days 8: The War](https://amzn.to/3UC6EOK)
-    - 📗[299 Days 7: The Change of Seasons](https://amzn.to/4mu5NMu)
-    - 📗[299 Days 6: The 17th Irregulars](https://amzn.to/4mG86LO)
-    - 📗[299 Days 5: The Visitors](https://amzn.to/3Jm8Kjl)
-    - 📗[299 Days 4: The Stronghold](https://amzn.to/4fEkYjj)
-    - 📗[299 Days 3: The Community](https://amzn.to/41L7Xi8)
-    - 📗[299 Days 2: The Collapse](https://amzn.to/41H43qA)
     - 📗[299 Days 1: The Preparation](https://amzn.to/4fl1KPE)
+    - 📗[299 Days 2: The Collapse](https://amzn.to/41H43qA)
+    - 📗[299 Days 3: The Community](https://amzn.to/41L7Xi8)
+    - 📗[299 Days 4: The Stronghold](https://amzn.to/4fEkYjj)
+    - 📗[299 Days 5: The Visitors](https://amzn.to/3Jm8Kjl)    
+    - 📗[299 Days 6: The 17th Irregulars](https://amzn.to/4mG86LO)
+    - 📗[299 Days 7: The Change of Seasons](https://amzn.to/4mu5NMu)
+    - 📗[299 Days 8: The War](https://amzn.to/3UC6EOK)
+    - 📗[299 Days 9: The Restoration](https://amzn.to/4mXArxA)
+    - 📗[299 Days 10: The 43 Colonels](https://amzn.to/462x2aV)    
   - ✒️ [Shelby Gallagher](https://amzn.to/47WobZE)
-    - 📗[A Great State 3: The Rescue](https://amzn.to/4fDqClO)
-    - 📗[A Great State 2: The Aftermath](https://amzn.to/416D8V6)
     - 📗[A Great State 1: The Divide](https://amzn.to/45FIgAO)
+    - 📗[A Great State 2: The Aftermath](https://amzn.to/416D8V6)
+    - 📗[A Great State 3: The Rescue](https://amzn.to/4fDqClO)
   - ✒️ [Kevin D. Mitnick](https://amzn.to/45U6KGJ)  
     - 📙[The Art of Deception](https://amzn.to/472TwtA)
     - 📙[The Art of Invisibility](https://amzn.to/3V6oLMR)
@@ -98,12 +100,7 @@
   - ✒️ [G. Edward Griffin](https://amzn.to/3JJUd16)
     - 📔[The Creature from Jekyll Island](https://amzn.to/4mMFNvq)   
   - ✒️ [Ashlee Vance](https://amzn.to/4p3Q7B2)
-    - 📔[Elon Musk: Telsa, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/418CqGW)
-  
-
-    
-
-    
+    - 📔[Elon Musk: Telsa, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/418CqGW)    
       
 ---
 [![](https://visitcount.itsvg.in/api?id=joelevi&icon=0&color=0)](https://visitcount.itsvg.in)
