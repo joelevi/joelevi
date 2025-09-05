@@ -25,7 +25,7 @@
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
   - [HAM Radio](https://www.qrz.com/db/KF7NWA)
   - ~~[Meshcore](https://meshcore.co.uk/)~~
-  - [Meshtastic](https://meshtastic.org/)
+  - [Meshtastic](https://meshtastic.org/): LEVj_865e
 
 ## ⚡ Fun Fact:
   - I'm [🪶Native American](https://RepublicanNatives.com)
