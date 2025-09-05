@@ -96,7 +96,7 @@
   - ✒️ [Mark R. Levin](https://amzn.to/42cfBCq)
     - 📔[The Liberty Amendments](https://amzn.to/46XXSC9)
   - ✒️ [Michael Medved](https://amzn.to/3HEePHD)
-   - 📔[The American Miracle: Divine Providence in the Rise of the Republic](https://amzn.to/4mugcb2)
+    - 📔[The American Miracle: Divine Providence in the Rise of the Republic](https://amzn.to/4mugcb2)
   - ✒️ [G. Edward Griffin](https://amzn.to/3JJUd16)
     - 📔[The Creature from Jekyll Island](https://amzn.to/4mMFNvq)   
   - ✒️ [Ashlee Vance](https://amzn.to/4p3Q7B2)
