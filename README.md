@@ -48,8 +48,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=joelevi&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-readme-stats.vercel.app/api?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-contributor-stats.vercel.app/api?username=joelevi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📚 My Bookshelf (what I've recently read):
