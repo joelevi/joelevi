@@ -47,8 +47,7 @@
   - Other: ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) 
 
 ## 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=joelevi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
