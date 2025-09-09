@@ -30,7 +30,7 @@
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
   - [HAM Radio](https://www.qrz.com/db/KF7NWA)
   - ~~[Meshcore](https://meshcore.co.uk/)~~
-  - [Meshtastic](https://meshtastic.org/): LEVj_865e
+  - [Meshtastic](https://meshtastic.org/): LEVj_5440 (RAK4631, [Muzi Works R1](https://muzi.works/products/r1-with-external-antenna?variant=43857272799289))
 
 ## ⚡ Fun Fact:
   - I'm [🪶Native American](https://RepublicanNatives.com)
