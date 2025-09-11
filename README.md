@@ -58,12 +58,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📚 My Bookshelf (what I've recently read):
+  - ✒️ [Robert A. Heinlein](https://amzn.to/47E9bje)
+    - 📘[Starship Troopers](https://amzn.to/45Y8qAe) (📖 currently reading)
   - ✒️ [William R. Forstchen](https://amzn.to/3VojnVw)
     - 📚[The John Matherson Series](https://amzn.to/4mLKXrR)
       - 📘[One Second After](https://amzn.to/452kakO)
       - 📘[One Year After](https://amzn.to/3I4Xg3r)
       - 📘[The Final Day](https://amzn.to/3JP8BFk)
-      - 📘[Five Years After](https://amzn.to/3V9EiMa) (📖 currently reading)
+      - 📘[Five Years After](https://amzn.to/3V9EiMa)
   - ✒️ [Glen Tate](https://amzn.to/3UPLX1W)
     - 📗[299 Days 1: The Preparation](https://amzn.to/4fl1KPE)
     - 📗[299 Days 2: The Collapse](https://amzn.to/41H43qA)
