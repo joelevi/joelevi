@@ -1,7 +1,7 @@
 # 💫 [About Me](https://JoeLevi.com):
  👋 Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™.
- 
- Pleased to make your acquaintance!
+
+ 📖 I'm currently reading [Starship Troopers](https://amzn.to/45Y8qAe) by [Robert A. Heinlein](https://amzn.to/47E9bje).
 
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
@@ -10,6 +10,7 @@
   - Deploying a Proxmox HA Cluster
   - Re-writing web sites
   - Deploying [Meshtastic](https://meshtastic.org/) for off-grid family and community communications
+  - Researching [Meshcore](https://meshcore.co.uk/) for off-grid family and community communications
 
 ## ✔️ I Recently Completed:
   - ™️[Joez Better Trademark Styling for the Registered and Trademark Symbols](https://github.com/joelevi/better-trademark-styling): This makes (TM) and (R) marks in HTML look more like they're supposed to: superscripted and smaller than the neighboring text.
@@ -29,7 +30,6 @@
   - [Proton Mail](mailto:Joe@JoeLevi.com)
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
   - [HAM Radio](https://www.qrz.com/db/KF7NWA)
-  - ~~[Meshcore](https://meshcore.co.uk/)~~
   - [Meshtastic](https://meshtastic.org/): LEVj_5440 (RAK4631, [Muzi Works R1](https://muzi.works/products/r1-with-external-antenna?variant=43857272799289))
 
 ## ⚡ Fun Fact:
@@ -59,7 +59,7 @@
 
 ## 📚 My Bookshelf (what I've recently read):
   - ✒️ [Robert A. Heinlein](https://amzn.to/47E9bje)
-    - 📘[Starship Troopers](https://amzn.to/45Y8qAe) (📖 currently reading)
+    - 📘[Starship Troopers](https://amzn.to/45Y8qAe)
   - ✒️ [William R. Forstchen](https://amzn.to/3VojnVw)
     - 📚[The John Matherson Series](https://amzn.to/4mLKXrR)
       - 📘[One Second After](https://amzn.to/452kakO)
