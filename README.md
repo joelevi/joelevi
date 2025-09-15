@@ -1,7 +1,7 @@
 # 💫 [About Me](https://JoeLevi.com):
  👋 Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™.
 
- 📖 I'm currently reading [Starship Troopers](https://amzn.to/45Y8qAe) by [Robert A. Heinlein](https://amzn.to/47E9bje).
+ 📖 I'm currently reading [The Moon is a Harsh Mistress](https://amzn.to/46cDevO) by [Robert A. Heinlein](https://amzn.to/47E9bje).
 
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
@@ -59,6 +59,7 @@
 
 ## 📚 My Bookshelf (what I've recently read):
   - ✒️ [Robert A. Heinlein](https://amzn.to/47E9bje)
+    - 📘[The Moon is a Harsh Mistress](https://amzn.to/46cDevO)
     - 📘[Starship Troopers](https://amzn.to/45Y8qAe)
   - ✒️ [William R. Forstchen](https://amzn.to/3VojnVw)
     - 📚[The John Matherson Series](https://amzn.to/4mLKXrR)
