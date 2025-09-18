@@ -1,8 +1,8 @@
 # 💫 [About Me](https://JoeLevi.com):
  👋 Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™.
 
- 📖 I'm currently reading [The Moon is a Harsh Mistress](https://amzn.to/46cDevO) by [Robert A. Heinlein](https://amzn.to/47E9bje).
-
+ 📖 I'm currently reading [The Fountainhead](https://amzn.to/46tmQYf) by [Ayn Rand](https://amzn.to/3HYVssE).
+ 
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
   - Deploying and Administering a [neighborhood Internet Co-Op](https://CraveBroadband.com)
@@ -90,6 +90,7 @@
     - 📕[Animal Farm](https://amzn.to/4mk13Zs)
     - 📕[1984](https://amzn.to/3UyB849)    
   - ✒️ [Ayn Rand](https://amzn.to/3HYVssE)
+    - 📕[The Fountainhead](https://amzn.to/46tmQYf)
     - 📕[Atlas Shrugged](https://amzn.to/3HFquFP)
   - ✒️ [Any Weir](https://amzn.to/3UTasv8)
     - 📘[The Martian](https://amzn.to/4lR1I3Q)
