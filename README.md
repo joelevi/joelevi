@@ -2,6 +2,8 @@
  👋 Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™.
 
  📖 I'm currently reading [The Fountainhead](https://amzn.to/46tmQYf) by [Ayn Rand](https://amzn.to/3HYVssE).
+
+ 🎶 I'm currently listening to [Enigma](https://amzn.to/4pDeeXD).
  
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
