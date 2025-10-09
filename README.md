@@ -3,7 +3,7 @@
 
  📖 I'm currently reading [The Fountainhead](https://amzn.to/46tmQYf) by [Ayn Rand](https://amzn.to/3HYVssE).
 
- 🎶 I'm currently listening to [Information Society](https://amzn.to/42d7ENC) and [Enigma](https://amzn.to/4pDeeXD).
+ 🎶 I'm currently listening to [The Alan Parsons Project](https://amzn.to/4q0Px7x).
  
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
