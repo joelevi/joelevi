@@ -32,7 +32,7 @@
   - [Proton Mail](mailto:Joe@JoeLevi.com)
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
   - [HAM Radio](https://www.qrz.com/db/KF7NWA)
-  - [Meshtastic](https://meshtastic.org/): LEVj_5440 (RAK4631, [Muzi Works R1](https://muzi.works/products/r1-with-external-antenna?variant=43857272799289))
+  - [Meshtastic](https://meshtastic.org/): !ba6aa7a8, LVjo, "👖Joe🪶🧲" - (HELTEC_V3, MagSafe "ToolsByEnzo" version)[https://www.etsy.com/listing/1868214664/complete-meshtastic-helltec-v3-node)] 
 
 ## ⚡ Fun Fact:
   - I'm [🪶Native American](https://RepublicanNatives.com)
