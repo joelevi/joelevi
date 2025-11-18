@@ -1,7 +1,9 @@
 # 💫 [About Me](https://JoeLevi.com):
  👋 Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™.
 
- 📖 I'm currently reading [The Fountainhead](https://amzn.to/46tmQYf) by [Ayn Rand](https://amzn.to/3HYVssE).
+ 📖 I'm currently reading:
+   - 📕[The Fountainhead](https://amzn.to/46tmQYf) by [Ayn Rand](https://amzn.to/3HYVssE)
+   - 📘[Stranger in a Strange Land](https://amzn.to/48kRCED) by [Robert A. Heinlein](https://amzn.to/47E9bje)
 
  🎶 I'm currently listening to [The Alan Parsons Project](https://amzn.to/4q0Px7x).
  
@@ -60,7 +62,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📚 My Bookshelf (what I've recently read):
+  - ✒️ [Tom Clancy](https://amzn.to/3Xyh3fJ)
+    - 📚[The Jack Ryan Series](https://amzn.to/3Xyh3fJ)
+       - 📗[The Hunt for Red October](https://amzn.to/4o2xyLV)
   - ✒️ [Robert A. Heinlein](https://amzn.to/47E9bje)
+    - 📘[Stranger in a Strange Land](https://amzn.to/48kRCED)
     - 📘[The Moon is a Harsh Mistress](https://amzn.to/46cDevO)
     - 📘[Starship Troopers](https://amzn.to/45Y8qAe)
   - ✒️ [William R. Forstchen](https://amzn.to/3VojnVw)
