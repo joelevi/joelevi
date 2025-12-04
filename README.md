@@ -5,7 +5,8 @@
    - 📕[The Fountainhead](https://amzn.to/46tmQYf) by [Ayn Rand](https://amzn.to/3HYVssE)
    - 📘[Without Remorse](https://amzn.to/3Xyh3fJ) by [Tom Clancy](https://amzn.to/3Xyh3fJ)
 
- 🎶 I'm currently listening to Christmas Music.
+ 🎶 I'm currently listening to:
+   - Christmas Music
  
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
