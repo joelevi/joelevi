@@ -3,9 +3,9 @@
 
  📖 I'm currently reading:
    - 📕[The Fountainhead](https://amzn.to/46tmQYf) by [Ayn Rand](https://amzn.to/3HYVssE)
-   - 📘[Stranger in a Strange Land](https://amzn.to/48kRCED) by [Robert A. Heinlein](https://amzn.to/47E9bje)
+   - 📘[Without Remorse](https://amzn.to/3Xyh3fJ) by [Tom Clancy](https://amzn.to/3Xyh3fJ)
 
- 🎶 I'm currently listening to [The Alan Parsons Project](https://amzn.to/4q0Px7x).
+ 🎶 I'm currently listening to Christmas Music.
  
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
@@ -34,7 +34,7 @@
   - [Proton Mail](mailto:Joe@JoeLevi.com)
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
   - [HAM Radio](https://www.qrz.com/db/KF7NWA)
-  - [Meshtastic](https://meshtastic.org/): !ba6aa7a8, LVjo, "👖Joe🪶🧲" - (HELTEC_V3, MagSafe "ToolsByEnzo" version)[https://www.etsy.com/listing/1868214664/complete-meshtastic-helltec-v3-node)] 
+  - [Meshtastic](https://meshtastic.org/): !3111865e, 865e, "👖Joe🪶" - [Muzi Works](https://muzi.works/) R1, integrated antenna; Firmware 2.7.16
 
 ## ⚡ Fun Fact:
   - I'm [🪶Native American](https://RepublicanNatives.com)
@@ -64,7 +64,49 @@
 ## 📚 My Bookshelf (what I've recently read):
   - ✒️ [Tom Clancy](https://amzn.to/3Xyh3fJ)
     - 📚[The Jack Ryan Series](https://amzn.to/3Xyh3fJ)
-       - 📗[The Hunt for Red October](https://amzn.to/4o2xyLV)
+      - 📘[Without Remorse](https://amzn.to/3Xyh3fJ)
+      <!--
+      Patriot Games (1987)
+      Red Rabbit (2002)
+      -->
+      - 📘[The Hunt for Red October](https://amzn.to/4o2xyLV)
+      <!--
+      The Cardinal of the Kremlin (1988)
+      Clear and Present Danger (1989)
+      The Sum of All Fears (1991)
+      Debt of Honor (1994)
+      Executive Orders (1996)
+      Rainbow Six (1998)
+      The Bear and the Dragon (2000)
+      The Teeth of the Tiger (2003)
+      Dead or Alive (2010)
+      Locked On (2011)
+      Threat Vector (2012)
+      Command Authority (2013)
+      Support and Defend (2014, Mark Greaney)
+      Full Force and Effect (2014)
+      Under Fire (2015)
+      Commander in Chief (2015)
+      Duty and Honor (2016)
+      True Faith and Allegiance (2016)
+      Point of Contact (2017)
+      Power and Empire (2017)
+      Line of Sight (2018)
+      Oath of Office (2018)
+      Enemy Contact (2019)
+      Code of Honor (2019)
+      Firing Point (2020)
+      Shadow of the Dragon (2020)
+      Target Acquired (2021)
+      Chain of Command (2021)
+      Zero Hour (2022)
+      Flash Point (2023)
+      Weapons Grade (2023)
+      Command and Control (2023)
+      Act of Defiance (2024)
+      Shadow State (2024)
+      Defense Protocol (2025)
+      -->
   - ✒️ [Robert A. Heinlein](https://amzn.to/47E9bje)
     - 📘[Stranger in a Strange Land](https://amzn.to/48kRCED)
     - 📘[The Moon is a Harsh Mistress](https://amzn.to/46cDevO)
