@@ -6,7 +6,7 @@
    - 📘[Patriot Games](https://amzn.to/4aTBHPq) by [Tom Clancy](https://amzn.to/3Xyh3fJ)
 
  🎶 I'm currently listening to:
-   - Christmas Music
+   - My "Liked Music" playlist on YouTube Music
  
 ## 🔭 I’m Currently Working On:
   - Writing Books: [Author Profile](https://amzn.to/41l353a)
