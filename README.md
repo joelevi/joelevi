@@ -109,7 +109,7 @@
   - ✒️ [Ayn Rand](https://amzn.to/3HYVssE)
     - 📕[The Fountainhead](https://amzn.to/46tmQYf)
     - 📕[Atlas Shrugged](https://amzn.to/3HFquFP)
-  - ✒️ [Any Weir](https://amzn.to/3UTasv8)
+  - ✒️ [Andy Weir](https://amzn.to/3UTasv8)
     - 📘[The Martian](https://amzn.to/4lR1I3Q)
   - ✒️ [Tom Sweterlitsch](https://amzn.to/4p2GrHg)
     - 📘[Tomorrow and Tomorrow](https://amzn.to/472oq59)
