@@ -56,12 +56,6 @@
   - Database: ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
   - Other: ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) 
 
-## 📊 GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=joelevi&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)<br />
-![](https://github-contributor-stats.vercel.app/api?username=joelevi&limit=5&theme=dark&combine_all_yearly_contributions=true)<br />
-![](https://github-readme-stats.vercel.app/api?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelevi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 📚 My Bookshelf (what I've recently read):
   - ✒️ [Tom Clancy](https://amzn.to/3Xyh3fJ)
     - 📚[The Jack Ryan Series](https://amzn.to/3Xyh3fJ)
