@@ -34,8 +34,9 @@
   - [Signal](https://signal.me/#eu/kez2d3EnvXoe-gjPhHb-k60FX4wUPr8ib7FzcJlDBEMWAqf4C7NGHIFJYrARuQKG)
   - [Proton Mail](mailto:Joe@JoeLevi.com)
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
-  - [HAM Radio](https://www.qrz.com/db/KF7NWA)
-  - [Meshtastic](https://meshtastic.org/): !4d1e569a, 865e, "👖Joe🪶🇺🇸" - [Muzi Works](https://muzi.works/) R1 Neo; Firmware 2.7.15
+  - [HAM Radio: KF7NWA](https://www.qrz.com/db/KF7NWA)
+  - GMRS: WSLF627
+  - [Meshtastic](https://meshtastic.org/): !4d1e569a, 865e, "👖Joe🪶🇺🇸" - [Muzi Works](https://muzi.works/) R1 Neo; Firmware 2.7.16.a597230
 
 ## ⚡ Fun Fact:
   - I'm [🪶Native American](https://RepublicanNatives.com)
