@@ -2,8 +2,8 @@
  👋 Hi there! I'm a a cross-discipline, multi-dimensional problem solver who thinks outside the box — but within reality™.
 
  📖 I'm currently reading:
+   - 📘[Red Rabbit (1982)](https://amzn.to/4u5tyi3) by [Tom Clancy](https://amzn.to/3Xyh3fJ)
    - 📕[The Fountainhead](https://amzn.to/46tmQYf) by [Ayn Rand](https://amzn.to/3HYVssE)
-   - 📘[Patriot Games](https://amzn.to/4aTBHPq) by [Tom Clancy](https://amzn.to/3Xyh3fJ)
 
  🎶 I'm currently listening to:
    - My "Liked Music" playlist on YouTube Music
@@ -62,9 +62,7 @@
     - 📚[The Jack Ryan Series](https://amzn.to/3Xyh3fJ)
       - 📘[Without Remorse](https://amzn.to/3Xyh3fJ)
       - 📘[Patriot Games](https://amzn.to/4aTBHPq)
-      <!--
-      Red Rabbit (1982)
-      -->
+      - 📘[Red Rabbit (1982)](https://amzn.to/4u5tyi3)
       - 📘[The Hunt for Red October](https://amzn.to/4o2xyLV)
       <!--
       The Cardinal of the Kremlin (1986)
