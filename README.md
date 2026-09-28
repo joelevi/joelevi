@@ -25,7 +25,7 @@
   - [VoteMylind.com](https://VoteMylind.com)
 
 ## ✔️ Tools I Recently Completed:
-  - ™️[Joez Better Trademark Styling for the Registered and Trademark Symbols](https://github.com/joelevi/better-trademark-styling): This makes (TM) and (R) marks in HTML look more like they're supposed to: superscripted and smaller than the neighboring text.
+  - ™️[Joez Better Trademark Styling for the Registered and Trademark Symbols](https://github.com/joelevi/better-trademark-styling): This makes (TM) and (R) marks in HTML look more like they're supposed to: superscripted and smaller than the neighboring text. (MAJOR UPDATE)
   - 🔗[Joez Asyncronous Content Panel Loader](): Uses a nav group with anchors in a list-item to load a partial page into a specified container and sets the clicked anchor to active
   - ⭐[Joez PHP Navbar Item-active Snippet](): Just a small PHP snippet which adds "active" to an item in the navbar indicating that page is the one you're looking at, allowing you to style it accordingly.
   - 📽️[Joez .WEBM Simple Batch Convertor](https://github.com/joelevi/webm-simple-batch-convertor/): a `.bat` file which checks a folder for videos, uses HandbrakeCLI to convert them to `.webm` VP9, and handles failures, with basic reporting.
