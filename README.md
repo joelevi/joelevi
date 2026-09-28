@@ -20,8 +20,8 @@
 ## 🌐 Websites I Recently Completed:
   - [CraveBroadband.com](https://CraveBroadband.com) (re-build)
   - [JoeLevi.com](https://JoeLevi.com) (re-build)
-  - [MilesTheMuskrat.com](https://MilesTheMuskrat.com)
-  - [I Need A Campaign Site](https://ineedacampaignsite.com)
+  - [MilesTheMuskrat.com™️](https://MilesTheMuskrat.com)
+  - [I Need A Campaign Site™️](https://ineedacampaignsite.com)
   - [VoteMylind.com](https://VoteMylind.com)
 
 ## ✔️ Tools I Recently Completed:
