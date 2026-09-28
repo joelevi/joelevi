@@ -42,7 +42,8 @@
   - [Proton Mail](mailto:Joe@JoeLevi.com)
   - [PHP Public Key](https://raw.githubusercontent.com/joelevi/joelevi/refs/heads/main/Joe%20Levi's%20public%20key.asc)
   - [HAM Radio: KF7NWA](https://www.qrz.com/db/KF7NWA)
-  - GMRS: WSLF627
+  - [Winlink](https://winlink.org): KF7NWA
+  - [GMRS](https://en.wikipedia.org/wiki/General_Mobile_Radio_Service): WSLF627
   - [Meshtastic](https://meshtastic.org/): !48ee5440, Lv01, "👖Joe" - [Muzi Works](https://muzi.works/) R1 (RAK WisBlock 4631); Firmware 2.7.26.54e0d8d beta
   - [Meshcore](https://meshcore.io/)
 
