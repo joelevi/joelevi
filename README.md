@@ -9,15 +9,22 @@
    - My "Liked Music" playlist on YouTube Music
  
 ## 🔭 I’m Currently Working On:
-  - Writing Books: [Author Profile](https://amzn.to/41l353a)
+  - [Writing Books](https://www.joelevi.com/books/) ([Author Profile](https://amzn.to/41l353a) )
   - Deploying and Administering a [neighborhood Internet Co-Op](https://CraveBroadband.com)
-  - Building a treehouse
-  - Deploying a Proxmox HA Cluster
-  - Re-writing web sites
+  - Building a "connected" treehouse
+  - ~~Deploying a Proxmox HA Cluster~~
+  - Re-writing web sites (see below)
   - Deploying [Meshtastic](https://meshtastic.org/) for off-grid family and community communications
   - Researching [Meshcore](https://meshcore.co.uk/) for off-grid family and community communications
 
-## ✔️ I Recently Completed:
+## 🌐 Websites I Recently Completed:
+  - [CraveBroadband.com](https://CraveBroadband.com) (re-build)
+  - [JoeLevi.com](https://JoeLevi.com) (re-build)
+  - [MilesTheMuskrat.com](https://MilesTheMuskrat.com)
+  - [I Need A Campaign Site](https://ineedacampaignsite.com)
+  - [VoteMylind.com](https://VoteMylind.com)
+
+## ✔️ Tools I Recently Completed:
   - ™️[Joez Better Trademark Styling for the Registered and Trademark Symbols](https://github.com/joelevi/better-trademark-styling): This makes (TM) and (R) marks in HTML look more like they're supposed to: superscripted and smaller than the neighboring text.
   - 🔗[Joez Asyncronous Content Panel Loader](): Uses a nav group with anchors in a list-item to load a partial page into a specified container and sets the clicked anchor to active
   - ⭐[Joez PHP Navbar Item-active Snippet](): Just a small PHP snippet which adds "active" to an item in the navbar indicating that page is the one you're looking at, allowing you to style it accordingly.
