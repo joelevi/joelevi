@@ -14,8 +14,8 @@
   - Building a "connected" treehouse
   - ~~Deploying a Proxmox HA Cluster~~
   - Re-writing web sites (see below)
-  - Deploying [Meshtastic](https://meshtastic.org/) for off-grid family and community communications
-  - Researching [Meshcore](https://meshcore.co.uk/) for off-grid family and community communications
+  - Deploying [Meshtastic](https://meshtastic.org/) for off-grid family and community communications (mobile/ad-hoc)
+  - Researching [Meshcore](https://meshcore.io/) for off-grid family and community communications (fixed-location, long-distance, infrastructure-based)
 
 ## 🌐 Websites I Recently Completed:
   - [CraveBroadband.com](https://CraveBroadband.com) (re-build)
